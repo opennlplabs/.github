@@ -8,9 +8,9 @@ This is the official GitHub page for [Linguistics Justice League](https://lingui
 - Subha Vadlamannati [@subha-v](https://github.com/subha-v)
 - Eshaan Barkataki [@Eshaancoding](https://github.com/Eshaancoding)
 - Richard (Rich) Choi [@choir27](https://github.com/choir27)
-- Sophia Li [wisePigOnTheMoon](https://github.com/wisePigOnTheMoon)
-- Seth Chang [Warrior-Wombat](https://github.com/Warrior-Wombat)
-- Armaan Sharma [ArmaanSharmaProjects](https://github.com/ArmaanSharmaProjects)
+- Sophia Li [@wisePigOnTheMoon](https://github.com/wisePigOnTheMoon)
+- Seth Chang [@Warrior-Wombat](https://github.com/Warrior-Wombat)
+- Armaan Sharma [@ArmaanSharmaProjects](https://github.com/ArmaanSharmaProjects)
 
 ## Past Contributors
 - Jovani Casarrubias [@jovaniq1](https://github.com/jovaniq1)
@@ -27,6 +27,5 @@ Linguistics Justice League (LJL) preserves languages and supports speakers of lo
 
 ## How do I join?
 1. Email info@linguisticsjusticeleague
-2. Alternatively, Fill out the form here https://forms.gle/ATPpNcuB6vX18aQj6
+2. Alternatively, fill out [this form](https://forms.gle/ATPpNcuB6vX18aQj6).
 3. A representative from LJL will be in touch to send you a scheduling link.
-
