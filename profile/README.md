@@ -26,6 +26,6 @@ This is the official GitHub page for [Linguistics Justice League](https://lingui
 Linguistics Justice League (LJL) preserves languages and supports speakers of low-resource languages. We create bilingual content and host advocacy programs, empowering communities and promoting linguistic justice. We envision a world where everyone, regardless of the language they speak, can access the necessary resources to reclaim their cultural heritage.
 
 ## How do I join?
-1. Email info@linguisticsjusticeleague
+1. Email info@linguisticsjusticeleague.org, we will be in touch within 24 hours.
 2. Alternatively, fill out [this form](https://forms.gle/ATPpNcuB6vX18aQj6).
 3. A representative from LJL will be in touch to send you a scheduling link.
