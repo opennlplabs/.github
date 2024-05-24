@@ -5,12 +5,12 @@
 This is the official GitHub page for [Linguistics Justice League](https://linguisticsjusticeleague.org/). 
 
 ## Active Contributors
-- Subha Vadlamannati [@subha-v1]
-- Eshaan Barkataki 
-- Richard (Rich) Choi
-- Sophia Li
-- Seth Chang
-- Armaan Sharma
+- Subha Vadlamannati [@subha-v](https://github.com/subha-v)
+- Eshaan Barkataki [@Eshaancoding](https://github.com/Eshaancoding)
+- Richard (Rich) Choi [@choir27](https://github.com/choir27)
+- Sophia Li [wisePigOnTheMoon](https://github.com/wisePigOnTheMoon)
+- Seth Chang [Warrior-Wombat](https://github.com/Warrior-Wombat)
+- Armaan Sharma [ArmaanSharmaProjects](https://github.com/ArmaanSharmaProjects)
 
 ## Past Contributors
 - Jovani Casarrubias [@jovaniq1](https://github.com/jovaniq1)
