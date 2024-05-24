@@ -5,7 +5,7 @@
 This is the official GitHub page for [Linguistics Justice League](https://linguisticsjusticeleague.org/). 
 
 ## Active Contributors
-- Subha Vadlamannati 
+- Subha Vadlamannati [@subha-v1]
 - Eshaan Barkataki 
 - Richard (Rich) Choi
 - Sophia Li
@@ -13,14 +13,14 @@ This is the official GitHub page for [Linguistics Justice League](https://lingui
 - Armaan Sharma
 
 ## Past Contributors
-- Yanbo Fang
-- Jovani
+- Jovani Casarrubias [@jovaniq1](https://github.com/jovaniq1)
 - Talal Younis
 - William Vongphanith
 - Xiao Zhang
-- Lealem Birhuanu
+- Sravani Rebba [@Sravani020894](https://github.com/Sravani020894)
+- Lealem Birhuanu [@lealem-b](https://github.com/lealem-b)
 - Chen Chao
-- Humayoon Rafei
+- Humayoon Rafei [@Humayoonrafei](https://github.com/humayoonrafei)
 
 ## What is LJL's mission and vision?
 Linguistics Justice League (LJL) preserves languages and supports speakers of low-resource languages. We create bilingual content and host advocacy programs, empowering communities and promoting linguistic justice. We envision a world where everyone, regardless of the language they speak, can access the necessary resources to reclaim their cultural heritage.
