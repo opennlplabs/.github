@@ -16,7 +16,7 @@ This is the official GitHub page for [Linguistics Justice League](https://lingui
 - Jovani Casarrubias [@jovaniq1](https://github.com/jovaniq1)
 - Talal Younis
 - William Vongphanith
-- Xiao Zhang
+- Xiao Zhang [@xiao11lam](https://github.com/xiao11lam)
 - Sravani Rebba [@Sravani020894](https://github.com/Sravani020894)
 - Lealem Birhuanu [@lealem-b](https://github.com/lealem-b)
 - Chen Chao
