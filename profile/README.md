@@ -14,7 +14,8 @@ This is the official GitHub page for [Linguistics Justice League](https://lingui
 
 ## Past Contributors
 - Jovani Casarrubias [@jovaniq1](https://github.com/jovaniq1)
-- Talal Younis
+- Leonardo Florentino [@leonardomarcao](https://github.com/leonardomarcao)
+- Xinyi (Cindy) Liu [@cindy2097](https://github.com/cindy2097) 
 - William Vongphanith
 - Xiao Zhang [@xiao11lam](https://github.com/xiao11lam)
 - Sravani Rebba [@Sravani020894](https://github.com/Sravani020894)
