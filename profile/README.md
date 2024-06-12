@@ -1,6 +1,5 @@
 # Linguistics Justice League
-<img src="https://github.com/linguisticsjusticeleague/.github/assets/71041442/ca0377dc-1474-4f77-889f-a7de54f1709c" width="400">
-
+<img src="https://github.com/opennlplabs/.github/assets/71041442/68154003-0356-4ab7-b591-302e15f8041b" width="400">
 
 This is the official GitHub page for [Linguistics Justice League](https://linguisticsjusticeleague.org/). 
 
