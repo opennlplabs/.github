@@ -1,7 +1,7 @@
-# Linguistics Justice League
+# OpenNLP
 <img src="https://github.com/opennlplabs/.github/assets/71041442/68154003-0356-4ab7-b591-302e15f8041b" width="400">
 
-This is the official GitHub page for [Linguistics Justice League](https://linguisticsjusticeleague.org/). 
+This is the official GitHub page for [OpenNLP](https://linguisticsjusticeleague.org/). 
 
 ## Active Contributors
 - Subha Vadlamannati [@subha-v](https://github.com/subha-v)
@@ -22,8 +22,8 @@ This is the official GitHub page for [Linguistics Justice League](https://lingui
 - Chen Chao
 - Humayoon Rafei [@Humayoonrafei](https://github.com/humayoonrafei)
 
-## What is LJL's mission and vision?
-Linguistics Justice League (LJL) preserves languages and supports speakers of low-resource languages. We create bilingual content and host advocacy programs, empowering communities and promoting linguistic justice. We envision a world where everyone, regardless of the language they speak, can access the necessary resources to reclaim their cultural heritage.
+## What is OpenNLP's mission and vision?
+OpenNLP is a research lab that focuses on bringing the work within emerging subfields of natural language processing to the real world.  There's so much research out there that's potential hasn't been realized yet, with groundbreaking models often being relegated to GitHub repositories that are inaccessible to the general public and marginalized communities who need it the most. At OpenNLP, we focus on uniting global collaborators to work on paid and research projects that push the boundaries of natural language processing. We don’t stop at publishing papers– we make research accessible and understood by all.
 
 ## How do I join?
 1. Email info@linguisticsjusticeleague.org, we will be in touch within 24 hours.
