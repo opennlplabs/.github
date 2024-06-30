@@ -10,7 +10,7 @@ This is the official GitHub page for [OpenNLP](https://linguisticsjusticeleague.
 - Sophia Li [@wisePigOnTheMoon](https://github.com/wisePigOnTheMoon)
 - Seth Chang [@Warrior-Wombat](https://github.com/Warrior-Wombat)
 - Armaan Sharma [@ArmaanSharmaProjects](https://github.com/ArmaanSharmaProjects)
-- Varadan Kaklunte [@varadanvk](https://github.com/varadanvk)
+- Varadan Kalkunte [@varadanvk](https://github.com/varadanvk)
 
 ## Past Contributors
 - Jovani Casarrubias [@jovaniq1](https://github.com/jovaniq1)
