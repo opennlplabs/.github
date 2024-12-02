@@ -27,6 +27,6 @@ This is the official GitHub page for [OpenNLP](https://linguisticsjusticeleague.
 OpenNLP is a research lab that focuses on bringing the work within emerging subfields of natural language processing to the real world.  There's so much research out there that's potential hasn't been realized yet, with groundbreaking models often being relegated to GitHub repositories that are inaccessible to the general public and marginalized communities who need it the most. At OpenNLP, we focus on uniting global collaborators to work on paid and research projects that push the boundaries of natural language processing. We don’t stop at publishing papers– we make research accessible and understood by all.
 
 ## How do I join?
-1. Email info@linguisticsjusticeleague.org, we will be in touch within 24 hours.
-2. Alternatively, fill out [this form](https://forms.gle/ATPpNcuB6vX18aQj6).
-3. A representative from LJL will be in touch to send you a scheduling link.
+1. Email info@opennlplabs.org, we will be in touch within 24 hours.
+2. Alternatively, fill out [this form](https://opennlplabs.org/jobs).
+3. A representative from OpenNLP will be in touch to send you a scheduling link.
