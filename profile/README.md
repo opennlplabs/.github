@@ -1,7 +1,7 @@
 # OpenNLP
 <img src="https://github.com/opennlplabs/.github/assets/71041442/68154003-0356-4ab7-b591-302e15f8041b" width="400">
 
-This is the official GitHub page for [OpenNLP](https://linguisticsjusticeleague.org/). 
+This is the official GitHub page for [OpenNLP](https://opennlplabs.org). 
 
 ## Active Contributors
 - Subha Vadlamannati [@subha-v](https://github.com/subha-v)
